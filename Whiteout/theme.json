@@ -1,0 +1,10 @@
+{
+  "name": "Whiteout",
+  "author": "Oteresk",
+  "version": "v1.0",
+  "inject": {
+
+	"shared.css": ["SP", "MainMenu", "QuickAccess"]
+  },
+  "target": "System-Wide"
+}
