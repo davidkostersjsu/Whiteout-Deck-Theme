@@ -2171,3 +2171,11 @@ style attribute {
 .gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocus .gamepaddialog_FieldDescription_2OJfk, .gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocuswithin .gamepaddialog_FieldDescription_2OJfk {
     color: #9f9f9f;
 }
+.deckverified_CompatibilityDetailsRow_i-kKr {
+    padding-bottom: 10px;
+    display: inline-flex;
+    font-size: 14px;
+    word-break: break-word;
+    color: #999;
+    width: 100%;
+}
