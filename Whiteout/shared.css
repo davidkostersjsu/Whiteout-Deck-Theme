@@ -1381,6 +1381,8 @@ button.gamepaddialog_Button_1kn70.DialogButton, button.gamepaddialog_Button_1kn7
     background: #999999;
 }
 .downloads_SectionItemWrapper_21P7c.gpfocus .downloads_SectionItem_1VNuY.downloads_Active_IbePL .downloads_Button_3oavR.DialogButton:enabled {
+    animation-name: none;
+    animation-name: none;
     background-color: #23272acf;
 }
 .BasicUI .appactionbutton_Green_3cI5T .appactionbutton_ButtonChild_2AzIX.Focusable:focus {
@@ -1926,11 +1928,11 @@ style attribute {
 }
 .gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocus, .gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocuswithin {
     outline: none;
-    background: #23272ab0;
+    background: #3d4450;
     color: #fff;
-
+    animation-name: none;
     z-index: 1;
-
+    animation-name: none;
 }
 .quickaccesscontrols_BatteryIcon_39aNh svg {
     width: 24px;
@@ -2069,6 +2071,8 @@ style attribute {
     transition: none;
 }
 .downloads_SectionItemWrapper_21P7c.gpfocus .downloads_SectionItem_1VNuY {
+    animation-name: none;
+    animation-name: none;
     z-index: 1;
     background: #cfcfcf;
 }
@@ -2112,4 +2116,52 @@ style attribute {
     transform: rotateZ(-90deg);
     fill: #cfcfcf;
     margin: 0px 3px;
+}
+.quickaccessmenu_Tab_1S76C.quickaccessmenu_Selected_2QHMu {
+    animation-name: none;
+    animation-name: none;
+}
+.notificationcontent_StandardTemplate_1B_uv.gpfocus, .notificationcontent_PinnedTemplate_H_NPi.gpfocus {
+    background-color: #cfcfcf;
+    animation-name: none;
+    z-index: 1;
+}
+.mainmenu_Item_2w9Tp.gpfocus {
+    animation-name: none;
+    transform: scale(1.1);
+    z-index: 1;
+}
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocus, .gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocuswithin {
+    outline: none;
+    background: #cfcfcf;
+    color: #fff;
+    animation-name: none;
+    z-index: 1;
+    animation-name: none;
+}
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocus, .gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocuswithin {
+    outline: none;
+    background: #cfcfcf;
+    color: #fff;
+    animation-name: none;
+    z-index: 1;
+    animation-name: none;
+}
+.friendGroup .groupName.GamepadMode.gpfocus, .GamepadMode .friendGroup .groupName.gpfocus {
+    animation-name: none;
+    z-index: 1;
+    animation-name: none;
+}
+.friendGroup .groupName.GamepadMode.gpfocus, .GamepadMode .friendGroup .groupName.gpfocus {
+    animation-name: none;
+    z-index: 1;
+    animation-name: none;
+}
+.FriendsListContent .friendlistListContainer .friendGroup.onlineFriends .groupName, .FriendsListContent .friendlistListContainer .friendGroup.offlineFriends .groupName {
+    color: #23272a;
+}
+.recentchatssteamdeck_RecentChatsList_19hiC .recentchatssteamdeck_RecentChatElement_24b8L.gpfocus {
+    animation-name: none;
+    z-index: 1;
+    animation-name: none;
 }
