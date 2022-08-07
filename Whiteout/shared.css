@@ -2165,3 +2165,9 @@ style attribute {
     z-index: 1;
     animation-name: none;
 }
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocus .gamepaddialog_FieldLabel_3b0U-, .gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocuswithin .gamepaddialog_FieldLabel_3b0U- {
+    color: #23272acf;
+}
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocus .gamepaddialog_FieldDescription_2OJfk, .gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocuswithin .gamepaddialog_FieldDescription_2OJfk {
+    color: #9f9f9f;
+}
